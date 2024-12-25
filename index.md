@@ -1,3 +1,16 @@
+<html>
+<head>
+    <style>
+        body {
+            background-image: url('https://github.com/lulach13/skills-github-pages/blob/my-pages/Ship%20In%20The%20Sea%20T%20Shirt%20Design%20Background%2C%20Wallpapers%2C%20Ship%2C%20Sea%20Background%20Image%20And%20Wallpaper%20for%20Free%20Download.html'); /* You can replace this with the actual path */
+            background-size: cover; /* Make sure the image covers the entire page */
+            background-position: center; /* Centers the image */
+            background-attachment: fixed; /* Makes the background fixed while scrolling */
+            color: white; /* Text color to ensure readability */
+        }
+    </style>
+</head>
+<body>
 
 # Welcome to The Shipmaker's Studio: Custom Models with Precision 🚢
 
