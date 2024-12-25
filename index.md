@@ -10,14 +10,8 @@
         }
     </style>
 </head>
-<body>
-
-# Welcome to My Handmade Boat Models!
-
-Explore our collection of unique, handcrafted boat models that will add charm and sophistication to any space.
-
-</body>
 </html>
+
 
 
 # Welcome to The Shipmaker's Studio: Custom Models with Precision 🚢
