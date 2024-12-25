@@ -2,7 +2,7 @@
 <head>
     <style>
         body {
-            background-image: url('https://raw.githubusercontent.com/lulach13/skills-github-pages/my-pages/Ship%20In%20The%20Sea%20T%20Shirt%20Design%20Background%2C%20Wallpapers%2C%20Ship%2C%20Sea%20Background%20Image%20And%20Wallpaper%20for%20Free%20Download.jpg');
+            background-image: url('https://github.com/lulach13/skills-github-pages/blob/my-pages/png-transparent-blue-and-white-anchor-graphic-anchor-ship-boat-drawing-anchor-technic-logo-rope-thumbnail.png');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
