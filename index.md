@@ -1,6 +1,4 @@
----
-title: The Shipmaker's Studio, Custom Models with Precision
----
+
 # Welcome to The Shipmaker's Studio: Custom Models with Precision 🚢
 
 At The Shipmaker's Studio, we specialize we specialize in creating exquisite, handcrafted miniature boat models. Our collection is perfect for collectors, maritime enthusiasts, or anyone looking for a unique piece of art to display. Each model is meticulously crafted with attention to detail and passion for the maritime world.
