@@ -2,11 +2,11 @@
 <head>
     <style>
         body {
-            background-image: url('https://github.com/lulach13/skills-github-pages/blob/my-pages/png-transparent-blue-and-white-anchor-graphic-anchor-ship-boat-drawing-anchor-technic-logo-rope-thumbnail.png');
-            background-size: cover;
-            background-position: center;
-            background-attachment: fixed;
-            color: white;
+            background-image: url('https://raw.githubusercontent.com/lulach13/skills-github-pages/my-pages/png-transparent-blue-and-white-anchor-graphic-anchor-ship-boat-drawing-anchor-technic-logo-rope-thumbnail.png');
+            background-size: cover; /* Ensure the image covers the entire screen */
+            background-position: center; /* Centers the image */
+            background-attachment: fixed; /* Keeps the image fixed when scrolling */
+            color: white; /* Change text color for visibility */
         }
     </style>
 </head>
