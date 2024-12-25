@@ -9,38 +9,22 @@ At The Shipmaker's Studio, we specialize we specialize in creating exquisite, ha
 
 Our boats are created from the finest materials, with each one representing the timeless elegance and craftsmanship of seafaring history. Whether you’re looking for a classic sailboat, a historic steamship, or a custom design, we have something for every taste.
 
-### 1. **Luxury Yachts**
-Perfect for those who want to experience ultimate comfort and style on the high seas. 
-
-- **Model X1** – A state-of-the-art luxury yacht with modern amenities.
-- **Model Y2** – Spacious and perfect for family vacations or corporate retreats.
-
-### 2. **Adventure Ships**
-Ideal for thrill-seekers who want to explore remote coastlines and take on the open ocean.
-
-- **Model A3** – Fast, rugged, and built for the adventurous spirit.
-- **Model B4** – Designed for long-distance journeys in extreme conditions.
-
-### 3. **Commercial & Cargo Ships**
-Need to transport goods or manage a fleet? We have heavy-duty vessels for any business need.
-
-- **Model C5** – A large cargo ship designed for efficiency.
-- **Model D6** – Perfect for smaller freight with excellent fuel economy.
+Our miniature handmade boat models are exquisite pieces of craftsmanship, meticulously designed to capture the timeless beauty and intricate details of classic ships. Each model is carefully crafted by skilled artisans, making every piece truly one-of-a-kind. These stunning boats serve as more than just a display item—they are unique decorative objects that add sophistication and charm to any space. Whether displayed on a shelf, desk, or mantle, each model brings a sense of maritime history and artistry, transforming your home or office into a gallery of craftsmanship. Perfect for those who appreciate fine details, these models are not just decor—they’re conversation starters, designed to evoke a sense of adventure, elegance, and the timeless allure of the sea.
 
 ## Why Choose Us? 🌟
 
-- **Trusted Expertise:** Our team has over 20 years of experience in the maritime industry.
-- **Top Quality:** We provide only the best ships, thoroughly inspected and tested before sale.
-- **Customization:** We offer a variety of customizations to suit your exact needs.
-- **Competitive Pricing:** Get the best deals for premium ships and vessels.
+Masterful Craftsmanship: With over 20 years of experience, our artisans meticulously handcraft each boat model, ensuring exceptional attention to detail in every piece.
+Unmatched Quality: We pride ourselves on delivering the finest handmade boat models, each thoroughly inspected for precision and durability.
+Personalized Creations: We offer a variety of customizations, allowing you to create a truly unique boat model that fits your vision perfectly.
+Affordable Elegance: Enjoy the beauty of handcrafted, one-of-a-kind boat models at competitive prices, making premium decor accessible to all.
 
 ## Contact Us 📞
 
 Interested in purchasing a ship or have questions? Our friendly team is here to help!
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **Phone:** +1 (555) 123-4567
-- **Location:** [Your Business Address]
+- **Email:** [razvan.carol@icloud.com](mailto:your-email@example.com)
+- **Phone:** +4 0749 677 303 
+- **Location:** Str Dorului nr 20, Sibiu
 
 Or visit our **[Contact Page](#)** for more options.
 
